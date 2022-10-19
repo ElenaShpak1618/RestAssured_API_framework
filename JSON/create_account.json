@@ -1,0 +1,15 @@
+{
+  "user": {
+    "email": "Nickk@spree.com",
+    "first_name": "Nick33",
+    "last_name": "Snow",
+    "password": "Nick123",
+    "password_confirmation": "Nick123",
+    "public_metadata": {
+      "user_segment": "supplier"
+    },
+    "private_metadata": {
+      "has_abandoned_cart": false
+    }
+  }
+}

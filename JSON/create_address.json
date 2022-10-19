@@ -1,0 +1,33 @@
+[RemoteTestNG] detected TestNG version 7.4.0
+{
+    "access_token": "sLDoPfSUSjLKxoXH58JeZtExMczgmWpEkjTQC-ADGJ8",
+    "token_type": "Bearer",
+    "expires_in": 7200,
+    "refresh_token": "C1dJzSPe-ziGzWS4_m-i0mk_5qZxP5XrOtv1FWCmYkc",
+    "created_at": 1665541052
+}
+oAuth Token is =>  sLDoPfSUSjLKxoXH58JeZtExMczgmWpEkjTQC-ADGJ8
+{
+    "data": {
+        "id": "57413",
+        "type": "address",
+        "attributes": {
+            "firstname": "Rest",
+            "lastname": "Assured",
+            "address1": "775 Old Georgetown Road",
+            "address2": "3rd Floor",
+            "city": "Qethesda",
+            "zipcode": "90210",
+            "phone": "3488545445002",
+            "state_name": "California",
+            "company": "Paper Street Soap Co.",
+            "country_name": "United States",
+            "country_iso3": "USA",
+            "country_iso": "US",
+            "label": null,
+            "state_code": "CA"
+        }
+    }
+}
+First Name  =>  Rest
+PASSED: POST_Create_Address
